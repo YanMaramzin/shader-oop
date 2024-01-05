@@ -1,0 +1,3 @@
+[submodule "share/glfw"]
+	path = share/glfw
+	url = https://github.com/glfw/glfw
